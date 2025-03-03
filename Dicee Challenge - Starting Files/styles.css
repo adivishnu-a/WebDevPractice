@@ -1,0 +1,42 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #1D2B53;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Jim Nightshade', cursive;
+  font-size: 8rem;
+  color: #A0153E;
+  text-shadow: 5px 0 #5D0E41;
+  font-weight: 400;
+}
+
+p {
+  font-size: 2rem;
+  color: #FAEF5D;
+  font-family: "Playwrite IT Moderna", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #FAEF5D;
+  text-align: center;
+  font-family: "Playwrite IT Moderna", cursive;
+
+}
